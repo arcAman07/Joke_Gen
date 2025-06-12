@@ -93,52 +93,7 @@ python weighted_joke_generator.py "machine learning"
 python novelty_joke_generator.py "cryptocurrency"
 ```
 
-### 5. Multi-Provider Generator (`multi_provider_generator.py`)
-**Purpose**: Cross-model validation and provider consistency analysis
-
-**Key Features**:
-- Support for OpenAI GPT, Anthropic Claude, Google Gemini
-- Cross-provider consistency scoring
-- Provider-specific adaptation strategies
-- Fallback mechanisms for API failures
-- Comparative quality analysis
-
-**Research Value**:
-- First systematic cross-LLM humor generation study
-- Provider bias identification
-- Robustness validation
-
-**Usage**:
-```bash
-# Requires multiple API keys
-export OPENAI_API_KEY="your_key"
-export ANTHROPIC_API_KEY="your_key"
-export GEMINI_API_KEY="your_key"
-python multi_provider_generator.py "robotics"
-```
-
-### 6. Self-Improving Generator (`self_improving_generator.py`)
-**Purpose**: Adaptive learning system that improves through feedback loops
-
-**Key Features**:
-- Persistent learning database
-- Adaptive prompt generation based on performance
-- Quality prediction with confidence scoring
-- Pattern effectiveness tracking
-- Dynamic weight adjustment
-- Simulated feedback integration
-
-**Novel Methodology**:
-- Real-time strategy adaptation
-- Feedback-driven prompt optimization
-- Performance trend analysis
-
-**Usage**:
-```bash
-python self_improving_generator.py "space exploration"
-```
-
-### 7. Comprehensive Evaluation Suite (`evaluation_suite.py`)
+### 5. Comprehensive Evaluation Suite (`evaluation_suite.py`)
 **Purpose**: Systematic comparison and analysis framework
 
 **Key Features**:
