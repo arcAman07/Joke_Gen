@@ -316,8 +316,7 @@ Novel application of reinforcement learning principles to humor generation with 
 
 ## File Structure Summary
 ```
-├── README.md                    # This comprehensive documentation
-├── api.md                       # API usage documentation
+├── README.md                    # This comprehensive documentation                     
 ├── basic_joke_generator.py      # Baseline PlanSearch implementation
 ├── evaluation_suite.py          # Comprehensive comparison framework
 ├── generic_joke_generator.py    # Offline joke generation (no API required)
@@ -325,7 +324,6 @@ Novel application of reinforcement learning principles to humor generation with 
 ├── novelty_joke_generator.py    # Advanced novelty detection system
 ├── pruning_joke_generator.py    # Quality-based pruning optimization
 ├── requirements.txt             # Python dependencies
-├── setup_and_run.py            # Easy setup and execution
 └── weighted_joke_generator.py   # Multi-dimensional ranking system
 ```
 
