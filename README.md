@@ -33,11 +33,6 @@ export GEMINI_API_KEY="your_gemini_key"
 ```bash
 # Install dependencies
 pip install -r requirements.txt
-
-# Interactive setup with guided configuration
-python setup_and_run.py  # Follow interactive setup prompts
-
-# See api.md for detailed API configuration options
 ```
 
 ### Manual Setup
@@ -322,6 +317,7 @@ Novel application of reinforcement learning principles to humor generation with 
 ## File Structure Summary
 ```
 ├── README.md                    # This comprehensive documentation
+├── api.md                       # API usage documentation
 ├── basic_joke_generator.py      # Baseline PlanSearch implementation
 ├── evaluation_suite.py          # Comprehensive comparison framework
 ├── generic_joke_generator.py    # Offline joke generation (no API required)
@@ -340,6 +336,7 @@ Novel application of reinforcement learning principles to humor generation with 
 - Literature research and analysis
 - Template and code implementation assistance
 - Results interpretation and documentation
+- Research methodology refinement
 
 The AI assistant accelerated development while maintaining rigorous scientific standards and original research contributions.
 
