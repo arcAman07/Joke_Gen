@@ -331,10 +331,8 @@ Novel application of reinforcement learning principles to humor generation with 
 
 **AI Assistant Usage**: This project utilized **Claude Sonnet 4** for:
 - Quick prototyping of experimental approaches
-- Literature research and analysis
+- Literature research, analysis and documentation
 - Template and code implementation assistance
-- Results interpretation and documentation
-- Research methodology refinement
 
 The AI assistant accelerated development while maintaining rigorous scientific standards and original research contributions.
 
